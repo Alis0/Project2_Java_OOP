@@ -1,1 +1,4 @@
 # Project2_Java_OOP
+
+
+This was one of the first projects I created on my own using many of the object oriented principles I'd been studying in an introductory Java course. I remember this project was an "aha" moment for me and was the first time I felt like I could see how concepts like polymorphism, encapsulation, and abstraction could be used together to create code that could potentially solve a problem or have real world application.  The program calculates the surface area and volume of prisms.  By extending subclasses from an abstract class I could easily represent as many different kinds of prisms as I needed.  If I decide in the future that I need these calculations for a different type of prism, I need only create a new class for that prism.  I can also quickly calculate the surface area and volume of many different prisms at once by simply changing that parameters that designate the prism dimensions.
